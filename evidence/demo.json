@@ -1,0 +1,95 @@
+{
+  "records": [
+    {
+      "id": 6,
+      "name": "Stone Hill",
+      "district": "East",
+      "usd": 182000,
+      "beds": 2,
+      "x": 73,
+      "y": 76
+    },
+    {
+      "id": 3,
+      "name": "Juniper Lane",
+      "district": "West",
+      "usd": 217500,
+      "beds": 2,
+      "x": 15,
+      "y": 23
+    },
+    {
+      "id": 10,
+      "name": "Elm Crossing",
+      "district": "Central",
+      "usd": 228000,
+      "beds": 2,
+      "x": 52,
+      "y": 56
+    },
+    {
+      "id": 1,
+      "name": "Birch Court",
+      "district": "West",
+      "usd": 255000,
+      "beds": 3,
+      "x": 18,
+      "y": 44
+    },
+    {
+      "id": 8,
+      "name": "Hawthorn Row",
+      "district": "West",
+      "usd": 289000,
+      "beds": 4,
+      "x": 29,
+      "y": 68
+    },
+    {
+      "id": 5,
+      "name": "Willow Place",
+      "district": "Central",
+      "usd": 297500,
+      "beds": 3,
+      "x": 40,
+      "y": 71
+    },
+    {
+      "id": 9,
+      "name": "Foundry Lofts",
+      "district": "East",
+      "usd": 310000,
+      "beds": 2,
+      "x": 86,
+      "y": 29
+    },
+    {
+      "id": 7,
+      "name": "North Terrace",
+      "district": "Central",
+      "usd": 312000,
+      "beds": 3,
+      "x": 43,
+      "y": 26
+    },
+    {
+      "id": 2,
+      "name": "River Gate",
+      "district": "Central",
+      "usd": 338000,
+      "beds": 2,
+      "x": 64,
+      "y": 42
+    },
+    {
+      "id": 4,
+      "name": "Beacon House",
+      "district": "East",
+      "usd": 369000,
+      "beds": 4,
+      "x": 83,
+      "y": 52
+    }
+  ],
+  "explain": "\u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510\n\u2502         PROJECTION        \u2502\n\u2502    \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500   \u2502\n\u2502__internal_decompress_integ\u2502\n\u2502     ral_integer(#0, 1)    \u2502\n\u2502__internal_decompress_strin\u2502\n\u2502           g(#1)           \u2502\n\u2502__internal_decompress_strin\u2502\n\u2502           g(#2)           \u2502\n\u2502             #3            \u2502\n\u2502__internal_decompress_integ\u2502\n\u2502     ral_integer(#4, 2)    \u2502\n\u2502__internal_decompress_integ\u2502\n\u2502    ral_integer(#5, 15)    \u2502\n\u2502__internal_decompress_integ\u2502\n\u2502    ral_integer(#6, 23)    \u2502\n\u2502                           \u2502\n\u2502          ~0 rows          \u2502\n\u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u252c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2518\n\u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2534\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510\n\u2502          ORDER_BY         \u2502\n\u2502    \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500   \u2502\n\u2502 memory.main.properties.usd\u2502\n\u2502             ASC           \u2502\n\u2502 memory.main.properties.id \u2502\n\u2502             ASC           \u2502\n\u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u252c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2518\n\u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2534\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510\n\u2502         PROJECTION        \u2502\n\u2502    \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500   \u2502\n\u2502__internal_compress_integra\u2502\n\u2502     l_utinyint(#0, 1)     \u2502\n\u2502__internal_compress_string_\u2502\n\u2502        uhugeint(#1)       \u2502\n\u2502__internal_compress_string_\u2502\n\u2502        ubigint(#2)        \u2502\n\u2502             #3            \u2502\n\u2502__internal_compress_integra\u2502\n\u2502     l_utinyint(#4, 2)     \u2502\n\u2502__internal_compress_integra\u2502\n\u2502     l_utinyint(#5, 15)    \u2502\n\u2502__internal_compress_integra\u2502\n\u2502     l_utinyint(#6, 23)    \u2502\n\u2502                           \u2502\n\u2502          ~2 rows          \u2502\n\u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u252c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2518\n\u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2534\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510\n\u2502         PROJECTION        \u2502\n\u2502    \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500   \u2502\n\u2502             id            \u2502\n\u2502            name           \u2502\n\u2502          district         \u2502\n\u2502            usd            \u2502\n\u2502            beds           \u2502\n\u2502             x             \u2502\n\u2502             y             \u2502\n\u2502                           \u2502\n\u2502          ~2 rows          \u2502\n\u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u252c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2518\n\u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2534\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510\n\u2502          SEQ_SCAN         \u2502\n\u2502    \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500   \u2502\n\u2502           Table:          \u2502\n\u2502   memory.main.properties  \u2502\n\u2502                           \u2502\n\u2502   Type: Sequential Scan   \u2502\n\u2502                           \u2502\n\u2502        Projections:       \u2502\n\u2502          district         \u2502\n\u2502            usd            \u2502\n\u2502            beds           \u2502\n\u2502             id            \u2502\n\u2502            name           \u2502\n\u2502             x             \u2502\n\u2502             y             \u2502\n\u2502                           \u2502\n\u2502          ~2 rows          \u2502\n\u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2518\n"
+}

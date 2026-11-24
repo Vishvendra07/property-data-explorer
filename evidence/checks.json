@@ -1,0 +1,8 @@
+{
+  "tests": 3,
+  "result": "passed",
+  "demo": "passed",
+  "unit_tests": 2,
+  "browser_tests": 1,
+  "map_table_and_shareable_filters": "passed"
+}
